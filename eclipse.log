@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.3.15)  10 JUL 2017 15:47
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.3.15)  10 JUL 2017 15:57
 entering extended mode
 **./eclipse.tex
 (eclipse.tex
@@ -186,14 +186,15 @@ Overfull \hbox (136.79147pt too wide) in paragraph at lines 46--47
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Pictures/SEatlas2021.jpg, id=3, 1461.96187pt x 1102.87032pt>
-File: Pictures/SEatlas2021.jpg Graphic file (type jpg)
+<Pictures/Local_Bellarmine_Data.jpg, id=3, 1290.32062pt x 518.6878pt>
+File: Pictures/Local_Bellarmine_Data.jpg Graphic file (type jpg)
 
-<use Pictures/SEatlas2021.jpg>
-Package pdftex.def Info: Pictures/SEatlas2021.jpg used on input line 51.
-(pdftex.def)             Requested size: 1461.95831pt x 1102.86763pt.
+<use Pictures/Local_Bellarmine_Data.jpg>
+Package pdftex.def Info: Pictures/Local_Bellarmine_Data.jpg used on input line 
+51.
+(pdftex.def)             Requested size: 1161.27785pt x 466.81471pt.
 
-Overfull \hbox (911.95831pt too wide) in paragraph at lines 51--52
+Overfull \hbox (611.27785pt too wide) in paragraph at lines 51--52
 [][] 
  []
 
@@ -201,28 +202,40 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 53.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 53.
+<Pictures/SEatlas2021.jpg, id=4, 1461.96187pt x 1102.87032pt>
+File: Pictures/SEatlas2021.jpg Graphic file (type jpg)
+
+<use Pictures/SEatlas2021.jpg>
+Package pdftex.def Info: Pictures/SEatlas2021.jpg used on input line 56.
+(pdftex.def)             Requested size: 1096.46873pt x 827.15071pt.
+
+Overfull \hbox (546.46873pt too wide) in paragraph at lines 56--57
+[][] 
+ []
+
 [1
 
 {C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <./Pictures/usa_eclipse_ma
-p_v2.jpg>] [2 <./Pictures/Ky_eclipse_path.jpg>] [3 <./Pictures/SEatlas2021.jpg>
-] (eclipse.aux) ) 
+p_v2.jpg>] [2 <./Pictures/Ky_eclipse_path.jpg>] [3 <./Pictures/Local_Bellarmine
+_Data.jpg>] [4 <./Pictures/SEatlas2021.jpg>] (eclipse.aux) ) 
 Here is how much of TeX's memory you used:
- 1730 strings out of 493333
- 24236 string characters out of 3139182
- 83434 words of memory out of 3000000
- 5254 multiletter control sequences out of 15000+200000
+ 1736 strings out of 493333
+ 24421 string characters out of 3139182
+ 83437 words of memory out of 3000000
+ 5259 multiletter control sequences out of 15000+200000
  7895 words of font info for 28 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 39i,9n,25p,242b,278s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cm
-bx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb
-><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Prog
-ram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files
-/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files/MiKTeX 2
-.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on eclipse.pdf (3 pages, 6681069 bytes).
+ 39i,9n,25p,242b,276s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files/M
+iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Program Files/MiKTeX 2.
+9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/
+type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/pub
+lic/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfo
+nts/cm/cmr17.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cm
+sy10.pfb>
+Output written on eclipse.pdf (4 pages, 7039433 bytes).
 PDF statistics:
- 39 PDF objects out of 1000 (max. 8388607)
+ 43 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 16 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 21 words of extra memory for PDF output out of 10000 (max. 10000000)
 
