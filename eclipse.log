@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.3.15)  10 JUL 2017 15:57
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.3.15)  11 JUL 2017 15:53
 entering extended mode
 **./eclipse.tex
 (eclipse.tex
@@ -76,21 +76,24 @@ Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
 \rotFPbot=\skip47
 \rot@float@box=\box26
 \rot@mess@toks=\toks21
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\was\gensymb.sty"
+Package: gensymb 2003/07/02 v1.0 (WaS)
 ) (eclipse.aux)
 \openout1 = `eclipse.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
 
 ("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -150,92 +153,103 @@ Package grfext Info: Graphics extension search list:
 G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
 )
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 22.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 22.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 22.
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 28.
+LaTeX Info: Redefining \celsius on input line 21.
+Package gensymb Info: Faking symbols for \degree and \celsius on input line 21.
 
+
+
+Package gensymb Warning: Not defining \perthousand.
+
+LaTeX Info: Redefining \ohm on input line 21.
+Package gensymb Info: Using \Omega for \ohm on input line 21.
+
+Package gensymb Warning: Not defining \micro.
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 23.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 23.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 23.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 29.
 ("C:\Program Files\MiKTeX 2.9\tex\latex\base\omscmr.fd"
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 28.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 29.
+ [1
 
-<Pictures/usa_eclipse_map_v2.jpg, id=1, 1300.86pt x 650.43pt>
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}]
+<Pictures/usa_eclipse_map_v2.jpg, id=10, 1300.86pt x 650.43pt>
 File: Pictures/usa_eclipse_map_v2.jpg Graphic file (type jpg)
 
 <use Pictures/usa_eclipse_map_v2.jpg>
-Package pdftex.def Info: Pictures/usa_eclipse_map_v2.jpg used on input line 41.
+Package pdftex.def Info: Pictures/usa_eclipse_map_v2.jpg used on input line 69.
 
 (pdftex.def)             Requested size: 241.84842pt x 120.92314pt.
-
-<Pictures/Ky_eclipse_path.jpg, id=2, 2409.0pt x 1505.625pt>
-File: Pictures/Ky_eclipse_path.jpg Graphic file (type jpg)
-
-<use Pictures/Ky_eclipse_path.jpg>
-Package pdftex.def Info: Pictures/Ky_eclipse_path.jpg used on input line 46.
-(pdftex.def)             Requested size: 481.79147pt x 301.11966pt.
-
-Overfull \hbox (136.79147pt too wide) in paragraph at lines 46--47
-[][] 
- []
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Pictures/Local_Bellarmine_Data.jpg, id=3, 1290.32062pt x 518.6878pt>
+<Pictures/Ky_eclipse_path.jpg, id=11, 2409.0pt x 1505.625pt>
+File: Pictures/Ky_eclipse_path.jpg Graphic file (type jpg)
+
+<use Pictures/Ky_eclipse_path.jpg>
+Package pdftex.def Info: Pictures/Ky_eclipse_path.jpg used on input line 74.
+(pdftex.def)             Requested size: 722.7056pt x 451.691pt.
+
+Overfull \hbox (172.7056pt too wide) in paragraph at lines 74--75
+[][] 
+ []
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 76.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 76.
+<Pictures/Local_Bellarmine_Data.jpg, id=12, 1290.32062pt x 518.6878pt>
 File: Pictures/Local_Bellarmine_Data.jpg Graphic file (type jpg)
 
 <use Pictures/Local_Bellarmine_Data.jpg>
 Package pdftex.def Info: Pictures/Local_Bellarmine_Data.jpg used on input line 
-51.
+79.
 (pdftex.def)             Requested size: 1161.27785pt x 466.81471pt.
 
-Overfull \hbox (611.27785pt too wide) in paragraph at lines 51--52
+Overfull \hbox (611.27785pt too wide) in paragraph at lines 79--80
 [][] 
  []
 
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 53.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 53.
-<Pictures/SEatlas2021.jpg, id=4, 1461.96187pt x 1102.87032pt>
+<Pictures/SEatlas2021.jpg, id=13, 1461.96187pt x 1102.87032pt>
 File: Pictures/SEatlas2021.jpg Graphic file (type jpg)
 
 <use Pictures/SEatlas2021.jpg>
-Package pdftex.def Info: Pictures/SEatlas2021.jpg used on input line 56.
+Package pdftex.def Info: Pictures/SEatlas2021.jpg used on input line 84.
 (pdftex.def)             Requested size: 1096.46873pt x 827.15071pt.
 
-Overfull \hbox (546.46873pt too wide) in paragraph at lines 56--57
+Overfull \hbox (546.46873pt too wide) in paragraph at lines 84--85
 [][] 
  []
 
-[1
-
-{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <./Pictures/usa_eclipse_ma
-p_v2.jpg>] [2 <./Pictures/Ky_eclipse_path.jpg>] [3 <./Pictures/Local_Bellarmine
-_Data.jpg>] [4 <./Pictures/SEatlas2021.jpg>] (eclipse.aux) ) 
+[2] [3 <./Pictures/usa_eclipse_map_v2.jpg>] [4 <./Pictures/Ky_eclipse_path.jpg>
+] [5 <./Pictures/Local_Bellarmine_Data.jpg>] [6 <./Pictures/SEatlas2021.jpg>]
+(eclipse.aux) ) 
 Here is how much of TeX's memory you used:
- 1736 strings out of 493333
- 24421 string characters out of 3139182
- 83437 words of memory out of 3000000
- 5259 multiletter control sequences out of 15000+200000
+ 1787 strings out of 493333
+ 25095 string characters out of 3139182
+ 86683 words of memory out of 3000000
+ 5306 multiletter control sequences out of 15000+200000
  7895 words of font info for 28 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 39i,9n,25p,242b,276s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Program Files/M
-iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Program Files/MiKTeX 2.
-9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/
-type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/pub
-lic/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfo
-nts/cm/cmr17.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cm
-sy10.pfb>
-Output written on eclipse.pdf (4 pages, 7039433 bytes).
+ 39i,9n,25p,818b,276s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx
+10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><
+C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Progra
+m Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/M
+iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files/MiKTeX 2.9
+/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/t
+ype1/public/amsfonts/cm/cmsy7.pfb>
+Output written on eclipse.pdf (6 pages, 7055882 bytes).
 PDF statistics:
- 43 PDF objects out of 1000 (max. 8388607)
+ 53 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  21 words of extra memory for PDF output out of 10000 (max. 10000000)
 
